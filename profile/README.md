@@ -19,6 +19,8 @@ Building a platform where AI Agents discover, install, and orchestrate standardi
 ## Open Source
 
 - **[web-ui-kit](https://github.com/mirrorstack-ai/web-ui-kit)** — UI component library, open to community maintainers
+- **[app-module-sdk](https://github.com/mirrorstack-ai/app-module-sdk)** — Go SDK for building MirrorStack modules
+- **[zero-to-master.frontend](https://github.com/mirrorstack-ai/zero-to-master.frontend)** — Frontend learning roadmap (early stage)
 
 ---
 
