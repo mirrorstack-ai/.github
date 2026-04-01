@@ -22,4 +22,4 @@ Building a platform where AI Agents discover, install, and orchestrate standardi
 
 ---
 
-💬 Community Slack coming soon
+💬 [Join our Slack](https://join.slack.com/t/mirrorstackai/shared_invite/zt-3twmj15cm-EPfQscE71I~JJj0yHK6EZg)
