@@ -24,7 +24,7 @@ Apache-2.0 and pre-1.0, so expect breaking changes. Contributions welcome: open 
 
 ## Community
 
-- 💬 Questions and chat: [Join our Discord](https://discord.gg/2JRusWWFec)
+- 💬 Questions and chat: [Join our Discord](https://discord.gg/QABqwGnXbc)
 - 🐛 Bugs and ideas: open an issue in the relevant repo
 
 ---
