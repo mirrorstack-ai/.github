@@ -1,27 +1,32 @@
 # MirrorStack
 
-**AI-native Modular CMS Platform**
+**The agentic CMS** — an AI-native content platform where modules are discovered and operated by agents.
 
-Building a platform where AI Agents discover, install, and orchestrate standardized modules via MCP protocol — replacing the fragmented code and tech debt caused by Vibe Coding.
+Tell the agent what a client needs and it composes the app from shared modules. Ship every client a custom app and maintain just one backend.
 
-## Products (Alpha stage, production unavailable)
+## Products
 
-- **[apps](https://apps.mirrorstack.ai)** — Modular CMS
-- **[projectify](https://projectify.mirrorstack.ai)** — AI-powered Project Management
-- **[account](https://account.mirrorstack.ai)** — Identity & Access Management
-- **balance** — Budgeting & Billing
+MirrorStack is in **early access** and invite-only for now: we're still in early-stage testing and not open to the public yet. For an invite, email [support@mirrorstack.ai](mailto:support@mirrorstack.ai?subject=MirrorStack%20early%20access).
 
-## Current Status
+- **[apps](https://apps.mirrorstack.ai)** — compose client apps from shared modules, run by agents
+- **[account](https://account.mirrorstack.ai)** — your MirrorStack account: passkeys, OAuth, sessions and permissions
 
-- Alpha → Beta migration in progress
-- Two alpha apps in production: Video Education Platform · Post-Surgery Nutrition Assistant
+On the roadmap: CRM, finance, project board and analytics.
 
 ## Open Source
 
-- **[web-ui-kit](https://github.com/mirrorstack-ai/web-ui-kit)** — UI component library, open to community maintainers
+Apache-2.0 and pre-1.0, so expect breaking changes. Contributions welcome: open an issue and agree the approach before sending a PR.
+
 - **[app-module-sdk](https://github.com/mirrorstack-ai/app-module-sdk)** — Go SDK for building MirrorStack modules
-- **[zero-to-master.frontend](https://github.com/mirrorstack-ai/zero-to-master.frontend)** — Frontend learning roadmap (early stage)
+- **[mirrorstack-cli](https://github.com/mirrorstack-ai/mirrorstack-cli)** — CLI to log in, scaffold, develop and deploy modules (deploying needs an invited account)
+- **[app-module-client](https://github.com/mirrorstack-ai/app-module-client)** — framework-neutral typed client for application modules
+- **[web-ui-kit](https://github.com/mirrorstack-ai/web-ui-kit)** — shared React UI components, with a [Storybook demo](https://mirrorstack-ai.github.io/web-ui-kit/)
+
+## Community
+
+- 💬 Questions and chat: [Join our Discord](https://discord.gg/2JRusWWFec)
+- 🐛 Bugs and ideas: open an issue in the relevant repo
 
 ---
 
-💬 [Join our Slack](https://join.slack.com/t/mirrorstackai/shared_invite/zt-3twmj15cm-EPfQscE71I~JJj0yHK6EZg)
+[mirrorstack.ai](https://mirrorstack.ai)
