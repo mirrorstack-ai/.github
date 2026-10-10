@@ -22,6 +22,13 @@ Apache-2.0 and pre-1.0, so expect breaking changes. Contributions welcome: open 
 - **[app-module-client](https://github.com/mirrorstack-ai/app-module-client)** — framework-neutral typed client for application modules
 - **[web-ui-kit](https://github.com/mirrorstack-ai/web-ui-kit)** — shared React UI components, with a [Storybook demo](https://mirrorstack-ai.github.io/web-ui-kit/)
 
+## Source-available
+
+Services behind the platform, published so you can check what they do instead of trusting us. Licensed under the Functional Source License (FSL-1.1-ALv2); each release converts to Apache-2.0 two years after it ships.
+
+- **[billing-engine](https://github.com/mirrorstack-ai/billing-engine)** — the billing service: usage metering and Stripe, public so you can check the platform's arithmetic (no new charges are collected through it yet)
+- **[dns-delegate-engine](https://github.com/mirrorstack-ai/dns-delegate-engine)** — holds the DNS credentials you can delegate when connecting a custom domain, and nothing else; public so you can check what it can touch (rebuild in progress)
+
 ## Community
 
 - 💬 Questions and chat: [Join our Discord](https://discord.gg/QABqwGnXbc)
